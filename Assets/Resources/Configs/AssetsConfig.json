@@ -1,0 +1,44 @@
+{
+  "prefab_raindrop": { "Path": "Prefabs/Raindrop"},
+  "prefab_puddle_0": { "Path": "Prefabs/Puddle 0"},
+  "prefab_puddle_1": { "Path": "Prefabs/Puddle 1"},
+  
+  "prefab_tile_0": { "Path": "Prefabs/Tiles/Tile 0"},
+  "prefab_tile_1": { "Path": "Prefabs/Tiles/Tile 1"},
+  "prefab_tile_2": { "Path": "Prefabs/Tiles/Tile 2"},
+  "prefab_tile_3": { "Path": "Prefabs/Tiles/Tile 3"},
+  "prefab_tile_4": { "Path": "Prefabs/Tiles/Tile 4"},
+  "prefab_tile_5": { "Path": "Prefabs/Tiles/Tile 5"},
+  "prefab_tile_6": { "Path": "Prefabs/Tiles/Tile 6"},
+
+  "sprite_rainy_weather": { "Path": "Sprites/Game/Rainy"},
+  "sprite_clear_weather": { "Path": "Sprites/Game/Clear"},
+
+  "sprite_lobby_shield_red": { "Path": "Sprites/Lobby/ShieldRed"},
+  "sprite_lobby_shield_purple": { "Path": "Sprites/Lobby/ShieldPurple"},
+  "sprite_lobby_shield_pink": { "Path": "Sprites/Lobby/ShieldPink"},
+  "sprite_lobby_shield_green": { "Path": "Sprites/Lobby/ShieldGreen"},
+  "sprite_lobby_shield_blue": { "Path": "Sprites/Lobby/ShieldBlue"},
+  "sprite_lobby_boots_red": { "Path": "Sprites/Lobby/BootsRed"},
+  "sprite_lobby_boots_purple": { "Path": "Sprites/Lobby/BootsPurple"},
+  "sprite_lobby_boots_pink": { "Path": "Sprites/Lobby/BootsPink"},
+  "sprite_lobby_boots_green": { "Path": "Sprites/Lobby/BootsGreen"},
+  "sprite_lobby_boots_blue": { "Path": "Sprites/Lobby/BootsBlue"},
+
+  "sprite_game_shield_red": { "Path": "Sprites/Game/GameShieldRed"},
+  "sprite_game_shield_purple": { "Path": "Sprites/Game/GameShieldPurple"},
+  "sprite_game_shield_pink": { "Path": "Sprites/Game/GameShieldPink"},
+  "sprite_game_shield_green": { "Path": "Sprites/Game/GameShieldGreen"},
+  "sprite_game_shield_blue": { "Path": "Sprites/Game/GameShieldBlue"},
+  "sprite_game_boots_red": { "Path": "Sprites/Game/GameBootsRed"},
+  "sprite_game_boots_purple": { "Path": "Sprites/Game/GameBootsPurple"},
+  "sprite_game_boots_pink": { "Path": "Sprites/Game/GameBootsPink"},
+  "sprite_game_boots_green": { "Path": "Sprites/Game/GameBootsGreen"},
+  "sprite_game_boots_blue": { "Path": "Sprites/Game/GameBootsBlue"},
+
+  "audio_lobby": { "Path": "Audio/Lobby"},
+  "audio_click": { "Path": "Audio/Click"},
+  "audio_fail": { "Path": "Audio/Fail"},
+  "audio_pickup": { "Path": "Audio/PickUp"},
+  "audio_hit": { "Path": "Audio/Hit"}
+}

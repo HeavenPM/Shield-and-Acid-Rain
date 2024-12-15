@@ -1,0 +1,6 @@
+{
+  "screen_lobby": { "Path": "Windows/LobbyScreen"},
+  "screen_game": { "Path": "Windows/GameScreen"},
+  
+  "popup_fail": { "Path": "Windows/FailPopup"}
+}
